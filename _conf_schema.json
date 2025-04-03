@@ -1,0 +1,8 @@
+{
+    "password": {
+        "description": "password",
+        "type": "string",
+        "hint": "该值不为空则为pdf设置密码",
+        "obvious_hint": true
+    }
+}
